@@ -1,0 +1,10 @@
+1530442363531	geckodriver	INFO	geckodriver 0.19.1
+1530442363545	geckodriver	INFO	Listening on 127.0.0.1:58731
+1530442366647	mozrunner::runner	INFO	Running command: "D:\\ProgramFile\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\doudou\\AppData\\Local\\Temp\\rust_mozprofile.F7T6K3PPJN0V"
+1530442370128	Marionette	INFO	Listening on port 2828
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
