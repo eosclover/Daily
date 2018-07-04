@@ -12,14 +12,11 @@ def allTestCase():
     )
     return suite
 
-
 def run():
     '''生成测试报告'''
     fp = open('testReport.html', 'wb')
     HTMLTestRunner.HTMLTestRunner(
         stream=fp,
-        title='第四期UI自动化测试报告',
+        title='clover-UI自动化测试报告',
         description='基于Python语言的接口自动化测试实战').run(allTestCase())
-
-
 run()

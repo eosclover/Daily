@@ -8,3 +8,140 @@ A coding exception was thrown and uncaught in a Task.
 Full message: TypeError: NetworkError when attempting to fetch resource.
 Full stack: 
 *************************
+1530682693937	geckodriver	INFO	geckodriver 0.19.1
+1530682693957	geckodriver	INFO	Listening on 127.0.0.1:61641
+1530682696020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ThinkPad\\AppData\\Local\\Temp\\rust_mozprofile.xbDu8kJbXBgG"
+Unable to read VR Path Registry from C:\Users\ThinkPad\AppData\Local\openvr\openvrpaths.vrpath
+1530682697857	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\ThinkPad\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThinkPad\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThinkPad\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/1530682700669	Marionette	INFO	Listening on port 61650
+Unable to read VR Path Registry from C:\Users\ThinkPad\AppData\Local\openvr\openvrpaths.vrpath
+1530682701337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530682701409	Marionette	DEBUG	Register listener.js for window 4294967297
+1530682704961	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1530682705152	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1530682705153	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1530682705460	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1530682705506	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1530682705555	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1530682705964	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1530682705964	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1530682706774	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://map.baidu.com/"
+JavaScript warning: https://webmap1.bdimg.com/wolfman/static/common/js/libs/API/dist/api_4c11140.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://webmap1.bdimg.com/wolfman/static/common/js/libs/API/dist/api_4c11140.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+1530682707908	Marionette	DEBUG	Received DOM event "pageshow" for "https://map.baidu.com/"
+1530682707963	Marionette	DEBUG	Received DOM event "beforeunload" for "https://map.baidu.com/"
+1530682707993	Marionette	DEBUG	Received DOM event "pagehide" for "https://map.baidu.com/"
+1530682707995	Marionette	DEBUG	Received DOM event "unload" for "https://map.baidu.com/"
+1530682708116	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+[Parent 7980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1530682708217	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1530682708262	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Child 16236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1530682708920	geckodriver	INFO	geckodriver 0.19.1
+1530682708937	geckodriver	INFO	Listening on 127.0.0.1:61756
+1530682710979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ThinkPad\\AppData\\Local\\Temp\\rust_mozprofile.OgsLiL8ef5vg"
+Unable to read VR Path Registry from C:\Users\ThinkPad\AppData\Local\openvr\openvrpaths.vrpath
+1530682712206	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\ThinkPad\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThinkPad\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThinkPad\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10020, Chrome_ChildThread1530682714047	Marionette	INFO	Listening on port 61763
+1530682714144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530682714220	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\ThinkPad\AppData\Local\openvr\openvrpaths.vrpath
+1530682717767	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1530682717898	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1530682717899	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1530682718199	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1530682718252	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1530682718292	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1530682718669	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1530682718670	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1530682719418	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://map.baidu.com/"
+JavaScript warning: https://webmap1.bdimg.com/wolfman/static/common/js/libs/API/dist/api_4c11140.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://webmap1.bdimg.com/wolfman/static/common/js/libs/API/dist/api_4c11140.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+1530682721180	Marionette	DEBUG	Received DOM event "pageshow" for "https://map.baidu.com/"
+1530682721207	Marionette	DEBUG	Received DOM event "beforeunload" for "https://map.baidu.com/"
+1530682721320	Marionette	DEBUG	Received DOM event "pagehide" for "https://map.baidu.com/"
+1530682721321	Marionette	DEBUG	Received DOM event "unload" for "https://map.baidu.com/"
+1530682721367	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1530682721491	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1530682721580	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Child 7092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1530682727270	geckodriver	INFO	geckodriver 0.19.1
+1530682727291	geckodriver	INFO	Listening on 127.0.0.1:61871
+1530682729351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ThinkPad\\AppData\\Local\\Temp\\rust_mozprofile.0XhXAj7131JS"
+Unable to read VR Path Registry from C:\Users\ThinkPad\AppData\Local\openvr\openvrpaths.vrpath
+1530682730616	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\ThinkPad\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThinkPad\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThinkPad\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1530682732443	Marionette	INFO	Listening on port 61878
+1530682732505	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530682732560	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\ThinkPad\AppData\Local\openvr\openvrpaths.vrpath
+1530682736101	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1530682736184	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1530682736185	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1530682736480	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1530682736551	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1530682736596	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1530682737008	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1530682737009	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1530682737958	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://map.baidu.com/"
+JavaScript warning: https://webmap1.bdimg.com/wolfman/static/common/js/libs/API/dist/api.new_8f87cf8.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://webmap1.bdimg.com/wolfman/static/common/js/libs/API/dist/api.new_8f87cf8.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+1530682739200	Marionette	DEBUG	Received DOM event "pageshow" for "https://map.baidu.com/"
+1530682739784	Marionette	DEBUG	Received DOM event "beforeunload" for "https://map.baidu.com/"
+1530682739852	Marionette	DEBUG	Received DOM event "pagehide" for "https://map.baidu.com/"
+1530682739854	Marionette	DEBUG	Received DOM event "unload" for "https://map.baidu.com/"
+1530682739915	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1530682740022	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1530682740087	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Child 10152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1530682740687	geckodriver	INFO	geckodriver 0.19.1
+1530682740704	geckodriver	INFO	Listening on 127.0.0.1:61988
+1530682742751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ThinkPad\\AppData\\Local\\Temp\\rust_mozprofile.WCiLGiQAVGNM"
+Unable to read VR Path Registry from C:\Users\ThinkPad\AppData\Local\openvr\openvrpaths.vrpath
+1530682744022	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\ThinkPad\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThinkPad\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThinkPad\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1530682745832	Marionette	INFO	Listening on port 61994
+1530682745909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530682746091	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\ThinkPad\AppData\Local\openvr\openvrpaths.vrpath
+1530682749649	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1530682749811	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1530682749812	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1530682750109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1530682750187	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1530682750229	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1530682750739	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1530682750740	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1530682751528	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://map.baidu.com/"
+JavaScript warning: https://webmap1.bdimg.com/wolfman/static/common/js/libs/API/dist/api.new_8f87cf8.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://webmap1.bdimg.com/wolfman/static/common/js/libs/API/dist/api.new_8f87cf8.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+1530682752972	Marionette	DEBUG	Received DOM event "pageshow" for "https://map.baidu.com/"
+1530682752996	Marionette	DEBUG	Received DOM event "beforeunload" for "https://map.baidu.com/"
+1530682753099	Marionette	DEBUG	Received DOM event "pagehide" for "https://map.baidu.com/"
+1530682753101	Marionette	DEBUG	Received DOM event "unload" for "https://map.baidu.com/"
+1530682753144	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1530682753249	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1530682753293	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Child 516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 516, Chrome_ChildThread] WARNING: pipe
