@@ -13,13 +13,13 @@ class gzz(unittest.TestCase):
     def setUp(self):
         self.driver=webdriver.Chrome()
         self.driver.maximize_window()
-        self.driver.get('http://uat.lifesea.com:804/jzgxgzz/#/login')
+        self.driver.get('http://xxxxxm:804/jzgxgzz/#/login')
     def tearDown(self):
         self.driver.quit()
 
 
     def test_login(self):
-        self.driver.find_element_by_xpath('//*[@id="pane-usernameLogin"]/form/div[1]/div/div/input').send_keys('18392324444')
+        self.driver.find_element_by_xpath('//*[@id="pane-usernameLogin"]/form/div[1]/div/div/input').send_keys('xxxxx')
         self.driver.find_element_by_xpath('//*[@id="pane-usernameLogin"]/form/div[2]/div/div/input').send_keys('654321')
         self.driver.implicitly_wait(30)
         self.driver.find_element_by_xpath('//*[@id="pane-usernameLogin"]/form/button').click()
